@@ -1,0 +1,15 @@
+{
+  "name": "aziz",
+  "version": "0.0.1",
+  "description": "Common scripts to make development easy",
+  "bin": {
+    "aziz": "bin/cli.js"
+  },
+  "repository": "git@github.com:iAziz786/aziz-scripts.git",
+  "author": "Mohammad Aziz <azizforwork@gmail.com> (https://aziz.js.org)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
